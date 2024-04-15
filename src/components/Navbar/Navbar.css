@@ -1,0 +1,44 @@
+.nav-container{
+    position: sticky;
+    z-index: 3;
+    top: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 15vh;
+    background-color: rgba(221, 92, 6, 0.925);
+}
+
+.navbar-logo{
+    justify-self: start;
+    margin-left: 20px;
+    color: white;
+    margin-top: 4vh;
+    cursor: pointer;
+    display: flex;
+}
+
+.navbar a{
+    text-decoration: none;
+}
+
+.seeCarrito{
+    font-size: 25 px;
+    margin-right: 20px;
+    margin-top: 4vh;
+    cursor:pointer;
+    text-decoration: none;
+}
+
+.cart-items-total{
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    font-size: 10px;
+    padding: 3px;
+    top: 37px;
+    right: 14px;
+    position: absolute;
+}

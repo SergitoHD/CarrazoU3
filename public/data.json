@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "nombre": "Jabón Ace",
+        "descripcion": "Detergente en polvo Ace limpieza completa para lavar blancos y colores 5.5 kg",
+        "precio": 180.0,
+        "img": "https://ibarramayoreo.com/images/IMAGENES/51796/01.jpg/A05",
+        "cantidad": 1
+    },
+    {
+        "id":2,
+        "nombre": "Aceite Nutrioli",
+        "descripcion": "Aceite Nutrioli puro de soya 946 ml",
+        "precio": 50.0,
+        "img": "https://www.ochomasuno.com/cdn/shop/products/02d6e38669804ddc64802b7171e06e4f_1024x1024.jpg?v=1648826196",
+        "cantidad": 1
+    },
+    {
+        "id":3,
+        "nombre": "Frijoles Isadora",
+        "descripcion": "Frijoles bayos Isadora refritos 430 g",
+        "precio": 20.0,
+        "img": "https://m.media-amazon.com/images/I/619srKMq5rL._AC_UF1000,1000_QL80_.jpg",
+        "cantidad": 1
+    }
+]
